@@ -46,4 +46,4 @@ Wanderlust is a travel destination platform built with Next.js and React. It all
 
 Configure the environment variables required by the application, including the backend server URL and authentication settings.
 
-**Note:** Never commit secret keys or environment files to GitHub.
+
